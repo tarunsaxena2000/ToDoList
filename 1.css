@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .heading{
+    font-weight: 700;
+    color:black
+  }
+  .mrg{
+   margin-left: 20px; 
+  }
+  #show{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+  #show h3{
+      height: 60px;
+      width: 300px;
+      background: darkgrey;
+      border: 2px solid white;
+      border-radius: 7px;
+      margin: 10px;
+      padding: 4px;
+  }
+  #show p{
+      height: 60px;
+      width: 300px;
+      background: darkgrey;
+      border: 2px solid white;
+      border-radius: 7px;
+      margin: 10px;
+      padding: 4px;
+  }
